@@ -1,0 +1,9 @@
+.openSideBarWidthPageContent{
+    height:100vh;
+    width:calc(100% - 220);
+}
+
+.closeSideBarWidthPageContent{
+    height:100vh;
+    width:calc(100% - 50);
+}

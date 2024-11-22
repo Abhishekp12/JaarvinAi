@@ -1,0 +1,7 @@
+
+
+.tableCell{
+text-align: center !important; 
+/* used important as MUI style was overridring css. one way to use sx={{ textAlign:"ccenter"}} directly in tableCell other way to use 
+!important */
+}
